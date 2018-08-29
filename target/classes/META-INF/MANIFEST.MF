@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot
+Implementation-Version: 0.1.0
+Built-By: Spark
+Implementation-Vendor-Id: com.andrey
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot
+Created-By: Maven Integration for Eclipse
+
